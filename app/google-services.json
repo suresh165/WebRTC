@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752786772745",
+    "project_id": "webrtc-b387a",
+    "storage_bucket": "webrtc-b387a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752786772745:android:07dd9c3d717a805b2bb9d8",
+        "android_client_info": {
+          "package_name": "suresh.chandra.webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752786772745-dl90ahd7k2vbbfuqafm12pvkeruiuomu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSQLhFOYZHCHQy4PPs_VNMAZz2p94DQZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752786772745-dl90ahd7k2vbbfuqafm12pvkeruiuomu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
