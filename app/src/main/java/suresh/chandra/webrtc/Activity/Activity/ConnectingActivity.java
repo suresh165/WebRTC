@@ -1,4 +1,4 @@
-package suresh.chandra.webrtc.Activity;
+package suresh.chandra.webrtc.Activity.Activity;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -9,7 +9,6 @@ import android.os.Bundle;
 import com.bumptech.glide.Glide;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.FirebaseDatabase;
@@ -18,7 +17,6 @@ import com.google.firebase.database.annotations.NotNull;
 
 import java.util.HashMap;
 
-import suresh.chandra.webrtc.R;
 import suresh.chandra.webrtc.databinding.ActivityConnectingBinding;
 
 public class ConnectingActivity extends AppCompatActivity {

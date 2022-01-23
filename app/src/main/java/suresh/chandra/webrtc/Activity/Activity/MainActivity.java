@@ -1,4 +1,4 @@
-package suresh.chandra.webrtc.Activity;
+package suresh.chandra.webrtc.Activity.Activity;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -21,8 +21,6 @@ import com.google.firebase.database.ValueEventListener;
 import com.kaopiz.kprogresshud.KProgressHUD;
 
 import suresh.chandra.webrtc.Activity.Models.Users;
-import suresh.chandra.webrtc.R;
-import suresh.chandra.webrtc.databinding.ActivityCallBinding;
 import suresh.chandra.webrtc.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {

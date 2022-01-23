@@ -14,18 +14,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.WebRTC">
-        <activity android:name=".Activity.RewardActivity"></activity>
-        <activity android:name=".Activity.CallActivity" />
-        <activity android:name=".Activity.ConnectingActivity" />
-        <activity android:name=".Activity.LoginActivity" />
-        <activity android:name=".Activity.WelcomeActivity">
+        <activity android:name=".Activity.Activity.RewardActivity"></activity>
+        <activity android:name=".Activity.Activity.CallActivity" />
+        <activity android:name=".Activity.Activity.ConnectingActivity" />
+        <activity android:name=".Activity.Activity.LoginActivity" />
+        <activity android:name=".Activity.Activity.WelcomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activity.MainActivity" />
+        <activity android:name=".Activity.Activity.MainActivity" />
 
         <meta-data
             android:name="preloaded_fonts"

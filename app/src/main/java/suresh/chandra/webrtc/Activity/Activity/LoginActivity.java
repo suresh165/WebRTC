@@ -1,4 +1,4 @@
-package suresh.chandra.webrtc.Activity;
+package suresh.chandra.webrtc.Activity.Activity;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -13,7 +13,6 @@ import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
-import com.google.android.gms.common.api.ApiException;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthCredential;
@@ -26,8 +25,6 @@ import com.google.firebase.database.annotations.NotNull;
 
 import suresh.chandra.webrtc.Activity.Models.Users;
 import suresh.chandra.webrtc.R;
-
-import static android.content.ContentValues.TAG;
 
 public class LoginActivity extends AppCompatActivity {
 

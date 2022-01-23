@@ -1,4 +1,4 @@
-package suresh.chandra.webrtc.Activity;
+package suresh.chandra.webrtc.Activity.Activity;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
